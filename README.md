@@ -1,6 +1,6 @@
 # INTEGRANTES
 - Jaime Alexander Rax Caal 0902 20 15240
-
+- Emely Magaly Tecu Tecu 0902 20 15520
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
