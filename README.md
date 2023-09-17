@@ -1,6 +1,7 @@
 # INTEGRANTES
-- Jaime Alexander Rax Caal 0902 20 15240
-- Emely Magaly Tecu Tecu 0902 20 15520
+- Jaime Alexander Rax Caal    0902 20 15240
+- Emely Magaly Tecu Tecu      0902 20 15520
+- Gilberto Arturo Sierra Rax  0902 16 07372
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
